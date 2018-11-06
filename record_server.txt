@@ -1,0 +1,38 @@
+Sun Oct 28 09:06:21 2018
+duyingqin: hello
+Sun Oct 28 09:06:30 2018
+Server: jsjwnd
+Sun Oct 28 09:06:36 2018
+Server: cnsjcn
+Sun Oct 28 09:06:45 2018
+duyingqin: hello
+Sun Oct 28 09:06:52 2018
+duyingqin: hi
+Sun Oct 28 09:10:34 2018
+Server: \dazuoye.c
+Sun Oct 28 09:11:35 2018
+Server: 迅速那就
+Sun Oct 28 09:11:52 2018
+duyingqin: 搜索所
+Sun Oct 28 09:11:56 2018
+Server: 搜索 撒 
+Sun Oct 28 09:12:00 2018
+duyingqin:  撒
+Sun Oct 28 09:13:39 2018
+Server: file:///home/shun/Desktop/%E5%B5%8C%E5%85%A5%E5%BC%8F 
+Sun Oct 28 09:51:43 2018
+duyongqin: 你好！
+Sun Oct 28 09:52:20 2018
+Server: 你好啊！
+Sun Oct 28 09:53:12 2018
+duyongqin: 完linux大作业了吗？
+Sun Oct 28 09:53:32 2018
+Server: 做完了呀！
+Sun Oct 28 09:54:04 2018
+duyongqin: 发给我看看好不好
+Sun Oct 28 09:54:58 2018
+Server: '/home/shun/Desktop/dazuoye520' 
+Sun Oct 28 09:55:22 2018
+duyongqin: 发过去了
+Sun Oct 28 09:55:28 2018
+Server: 好的
